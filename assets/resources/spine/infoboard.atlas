@@ -1,0 +1,111 @@
+
+infoboard.png
+size: 1591,1591
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+burst
+  rotate: false
+  xy: 2, 12
+  size: 993, 275
+  orig: 993, 287
+  offset: 0, 11
+  index: -1
+cf_1
+  rotate: false
+  xy: 997, 137
+  size: 73, 74
+  orig: 75, 76
+  offset: 1, 1
+  index: -1
+cf_2
+  rotate: false
+  xy: 1074, 213
+  size: 69, 74
+  orig: 71, 76
+  offset: 1, 1
+  index: -1
+cf_3
+  rotate: false
+  xy: 997, 63
+  size: 57, 72
+  orig: 59, 74
+  offset: 1, 1
+  index: -1
+cf_4
+  rotate: false
+  xy: 1145, 217
+  size: 53, 70
+  orig: 55, 72
+  offset: 1, 1
+  index: -1
+cf_5
+  rotate: false
+  xy: 1072, 141
+  size: 59, 70
+  orig: 61, 76
+  offset: 1, 5
+  index: -1
+cf_6
+  rotate: false
+  xy: 1463, 1280
+  size: 69, 74
+  orig: 71, 76
+  offset: 1, 1
+  index: -1
+cf_7
+  rotate: false
+  xy: 997, 213
+  size: 75, 74
+  orig: 77, 76
+  offset: 1, 1
+  index: -1
+cf_8
+  rotate: false
+  xy: 1463, 1356
+  size: 74, 74
+  orig: 76, 76
+  offset: 1, 1
+  index: -1
+frame01
+  rotate: false
+  xy: 2, 604
+  size: 1468, 320
+  orig: 1468, 320
+  offset: 0, 0
+  index: -1
+frame02
+  rotate: false
+  xy: 2, 926
+  size: 1454, 331
+  orig: 1454, 331
+  offset: 0, 0
+  index: -1
+frame03
+  rotate: false
+  xy: 2, 1259
+  size: 1459, 330
+  orig: 1459, 330
+  offset: 0, 0
+  index: -1
+frame04
+  rotate: false
+  xy: 2, 289
+  size: 1456, 313
+  orig: 1460, 313
+  offset: 2, 0
+  index: -1
+glitter
+  rotate: false
+  xy: 1539, 1390
+  size: 41, 40
+  orig: 50, 50
+  offset: 4, 5
+  index: -1
+gradient_light
+  rotate: true
+  xy: 1463, 1432
+  size: 157, 126
+  orig: 157, 126
+  offset: 0, 0
+  index: -1

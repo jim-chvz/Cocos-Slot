@@ -1,0 +1,244 @@
+
+game_sjcz_paibianbianse.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinse
+  rotate: false
+  xy: 2, 747
+  size: 633, 219
+  orig: 633, 219
+  offset: 0, 0
+  index: -1
+jinse/01
+  rotate: false
+  xy: 945, 485
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/03
+  rotate: false
+  xy: 1253, 485
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/04
+  rotate: false
+  xy: 911, 336
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/05
+  rotate: false
+  xy: 911, 187
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/06
+  rotate: false
+  xy: 1219, 336
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/07
+  rotate: false
+  xy: 1219, 187
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/08
+  rotate: false
+  xy: 1561, 485
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/09
+  rotate: false
+  xy: 1527, 336
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/10
+  rotate: false
+  xy: 1527, 187
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/11
+  rotate: false
+  xy: 608, 2
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/12
+  rotate: false
+  xy: 916, 38
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/13
+  rotate: false
+  xy: 1224, 38
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/14
+  rotate: false
+  xy: 1532, 38
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/15
+  rotate: true
+  xy: 1869, 357
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+jinse/16
+  rotate: false
+  xy: 637, 485
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+yingse
+  rotate: false
+  xy: 2, 539
+  size: 633, 206
+  orig: 633, 206
+  offset: 0, 0
+  index: -1
+yinse/01
+  rotate: false
+  xy: 637, 801
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/010
+  rotate: false
+  xy: 305, 205
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/011
+  rotate: false
+  xy: 1243, 634
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/012
+  rotate: false
+  xy: 1546, 801
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/013
+  rotate: false
+  xy: 305, 38
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/014
+  rotate: false
+  xy: 1546, 634
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/015
+  rotate: true
+  xy: 1849, 665
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/016
+  rotate: false
+  xy: 608, 318
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/017
+  rotate: false
+  xy: 608, 151
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/02
+  rotate: false
+  xy: 2, 372
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/03
+  rotate: false
+  xy: 637, 634
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/04
+  rotate: false
+  xy: 940, 801
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/05
+  rotate: false
+  xy: 2, 205
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/06
+  rotate: false
+  xy: 305, 372
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/07
+  rotate: false
+  xy: 940, 634
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/08
+  rotate: false
+  xy: 1243, 801
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1
+yinse/09
+  rotate: false
+  xy: 2, 38
+  size: 301, 165
+  orig: 301, 165
+  offset: 0, 0
+  index: -1

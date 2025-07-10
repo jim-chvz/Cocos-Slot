@@ -1,0 +1,1550 @@
+{
+"skeleton": {
+	"hash": "6YZYu+DEBx1jLALuZ51IY/ag+8U=",
+	"spine": "3.8.75",
+	"x": -308.08,
+	"y": -183.95,
+	"width": 617.01,
+	"height": 303.48,
+	"images": "../Assets/",
+	"audio": "H:/BY88 Files/October-November 2024/Animation8/God of Wealth/JSON"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Flags", "parent": "root", "y": -32.69, "scaleX": 0.8534, "scaleY": 0.9696 },
+	{ "name": "Numbers", "parent": "Flags" },
+	{ "name": "Patterns", "parent": "Flags" }
+],
+"slots": [
+	{ "name": "ClippingMask2", "bone": "root", "attachment": "ClippingMask" },
+	{ "name": "Patterns2", "bone": "Patterns", "attachment": "pattern14", "blend": "additive" },
+	{ "name": "ClippingMask", "bone": "root", "attachment": "ClippingMask" },
+	{ "name": "Patterns", "bone": "Patterns", "color": "ffa700ff", "attachment": "pattern14", "blend": "additive" },
+	{ "name": "Flags", "bone": "Flags", "attachment": "Flag_2" },
+	{ "name": "Numbers", "bone": "Numbers", "attachment": "2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Patterns": {
+				"pattern1": { "width": 723, "height": 16 },
+				"pattern2": { "x": 0.5, "y": 0.5, "width": 723, "height": 314 },
+				"pattern3": { "x": 0.5, "width": 723, "height": 171 },
+				"pattern4": { "x": 0.5, "width": 723, "height": 320 },
+				"pattern5": { "x": 0.5, "width": 723, "height": 323 },
+				"pattern6": { "x": 0.5, "y": 0.5, "width": 723, "height": 169 },
+				"pattern7": { "x": 0.5, "width": 721, "height": 172 },
+				"pattern8": { "x": 0.5, "width": 723, "height": 318 },
+				"pattern9": { "x": 0.5, "width": 723, "height": 309 },
+				"pattern10": { "x": 0.5, "y": 0.5, "width": 723, "height": 321 },
+				"pattern11": { "width": 720, "height": 322 },
+				"pattern12": { "x": 0.5, "y": 0.5, "width": 723, "height": 317 },
+				"pattern13": { "x": 0.5, "width": 723, "height": 314 },
+				"pattern14": { "x": 0.5, "y": 0.5, "width": 723, "height": 313 }
+			},
+			"ClippingMask2": {
+				"ClippingMask": {
+					"type": "clipping",
+					"end": "Patterns2",
+					"vertexCount": 4,
+					"vertices": [ -365.85, 269.99, -303.14, 268.91, -306.38, -279.73, -359.28, -282.97 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"Patterns2": {
+				"pattern1": { "width": 723, "height": 16 },
+				"pattern2": { "x": 0.5, "y": 0.5, "width": 723, "height": 314 },
+				"pattern3": { "x": 0.5, "width": 723, "height": 171 },
+				"pattern4": { "x": 0.5, "width": 723, "height": 320 },
+				"pattern5": { "x": 0.5, "width": 723, "height": 323 },
+				"pattern6": { "x": 0.5, "y": 0.5, "width": 723, "height": 169 },
+				"pattern7": { "x": 0.5, "width": 721, "height": 172 },
+				"pattern8": { "x": 0.5, "width": 723, "height": 318 },
+				"pattern9": { "x": 0.5, "width": 723, "height": 309 },
+				"pattern10": { "x": 0.5, "y": 0.5, "width": 723, "height": 321 },
+				"pattern11": { "width": 720, "height": 322 },
+				"pattern12": { "x": 0.5, "y": 0.5, "width": 723, "height": 317 },
+				"pattern13": { "x": 0.5, "width": 723, "height": 314 },
+				"pattern14": { "x": 0.5, "y": 0.5, "width": 723, "height": 313 }
+			},
+			"Flags": {
+				"Flag_1": { "x": 0.5, "y": 0.5, "width": 49, "height": 49 },
+				"Flag_2": { "x": 0.5, "y": 0.5, "width": 49, "height": 49 }
+			},
+			"Numbers": {
+				"1": { "width": 11, "height": 21 },
+				"2": { "width": 15, "height": 21 },
+				"3": { "width": 15, "height": 22 },
+				"4": { "width": 16, "height": 22 },
+				"5": { "width": 14, "height": 22 },
+				"6": { "width": 15, "height": 22 },
+				"7": { "width": 14, "height": 21 },
+				"8": { "width": 15, "height": 22 },
+				"9": { "width": 15, "height": 22 },
+				"10": { "width": 26, "height": 22 },
+				"11": { "width": 22, "height": 22 },
+				"12": { "width": 26, "height": 22 },
+				"13": { "width": 26, "height": 23 },
+				"14": { "width": 26, "height": 23 },
+				"15": { "width": 25, "height": 23 },
+				"16": { "width": 26, "height": 22 },
+				"17": { "width": 25, "height": 21 },
+				"18": { "width": 25, "height": 22 },
+				"19": { "width": 25, "height": 22 },
+				"20": { "width": 27, "height": 22 },
+				"21": { "width": 23, "height": 21 },
+				"22": { "width": 27, "height": 22 },
+				"23": { "width": 27, "height": 22 },
+				"24": { "width": 27, "height": 22 },
+				"25": { "width": 27, "height": 22 },
+				"26": { "width": 28, "height": 22 },
+				"27": { "width": 27, "height": 22 },
+				"28": { "width": 27, "height": 23 },
+				"29": { "width": 27, "height": 23 },
+				"30": { "width": 27, "height": 23 }
+			},
+			"ClippingMask": {
+				"ClippingMask": {
+					"type": "clipping",
+					"end": "Patterns",
+					"vertexCount": 4,
+					"vertices": [ -407.95, 269.99, 412.66, 268.91, 409.42, -279.73, -401.39, -282.97 ],
+					"color": "ce3a3aff"
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"bingo_line1": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "1" }
+				]
+			},
+			"Flags": {
+				"attachment": [
+					{ "name": "Flag_1" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern1" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern1" }
+				]
+			}
+		},
+		"bones": {
+			"Flags": {
+				"translate": [
+					{ "x": -351.9, "y": -8.22 }
+				]
+			},
+			"Numbers": {
+				"translate": [
+					{ "x": 6.09, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": 413.67 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line2": {
+		"slots": {
+			"Flags": {
+				"attachment": [
+					{ "name": "Flag_1" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern1" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern1" }
+				]
+			}
+		},
+		"bones": {
+			"Flags": {
+				"translate": [
+					{ "x": -351.9, "y": 146.23 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": 413.67 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			},
+			"Numbers": {
+				"translate": [
+					{ "x": 7.95, "y": 1.19 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line3": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "3" }
+				]
+			},
+			"Flags": {
+				"attachment": [
+					{ "name": "Flag_1" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern1" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern1" }
+				]
+			}
+		},
+		"bones": {
+			"Flags": {
+				"translate": [
+					{ "x": -351.9, "y": -146.97 }
+				]
+			},
+			"Numbers": {
+				"translate": [
+					{ "x": 7.95, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": 413.67 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line4": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "4" }
+				]
+			},
+			"Flags": {
+				"attachment": [
+					{ "name": "Flag_1" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern2" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern2" }
+				]
+			}
+		},
+		"bones": {
+			"Flags": {
+				"translate": [
+					{ "x": -351.9, "y": 146.23 }
+				]
+			},
+			"Numbers": {
+				"translate": [
+					{ "x": 7.95, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": 410.31, "y": -150.57 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line5": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "5" }
+				]
+			},
+			"Flags": {
+				"attachment": [
+					{ "name": "Flag_1" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern2" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern2" }
+				]
+			}
+		},
+		"bones": {
+			"Flags": {
+				"translate": [
+					{ "x": -351.9, "y": -146.97 }
+				]
+			},
+			"Numbers": {
+				"translate": [
+					{ "x": 7.95, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": 409.47, "y": 149.58 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				],
+				"shear": [
+					{ "y": -180 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line6": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "6" }
+				]
+			},
+			"Flags": {
+				"attachment": [
+					{ "name": "Flag_1" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern7" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern7" }
+				]
+			}
+		},
+		"bones": {
+			"Flags": {
+				"translate": [
+					{ "x": -351.9, "y": 146.23 }
+				]
+			},
+			"Numbers": {
+				"translate": [
+					{ "x": 7.95, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": 409.47, "y": -75.77 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				],
+				"shear": [
+					{ "y": -180 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line7": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "7" }
+				]
+			},
+			"Flags": {
+				"attachment": [
+					{ "name": "Flag_1" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern7" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern7" }
+				]
+			}
+		},
+		"bones": {
+			"Flags": {
+				"translate": [
+					{ "x": -351.9, "y": -146.97 }
+				]
+			},
+			"Numbers": {
+				"translate": [
+					{ "x": 7.95, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": 410.31, "y": 77.86 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line8": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "8" }
+				]
+			},
+			"Flags": {
+				"attachment": [
+					{ "name": "Flag_1" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern3" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern3" }
+				]
+			}
+		},
+		"bones": {
+			"Flags": {
+				"translate": [
+					{ "x": -351.9, "y": -8.22 }
+				]
+			},
+			"Numbers": {
+				"translate": [
+					{ "x": 6.09, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": 401.92, "y": -77.9 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				],
+				"shear": [
+					{ "y": -180 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line9": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "9" }
+				]
+			},
+			"Flags": {
+				"attachment": [
+					{ "name": "Flag_1" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern3" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern3" }
+				]
+			}
+		},
+		"bones": {
+			"Flags": {
+				"translate": [
+					{ "x": -351.9, "y": -8.22 }
+				]
+			},
+			"Numbers": {
+				"translate": [
+					{ "x": 6.09, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": 399.41, "y": 76.41 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line10": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "10" }
+				]
+			},
+			"Flags": {
+				"attachment": [
+					{ "name": "Flag_1" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern3" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern3" }
+				]
+			}
+		},
+		"bones": {
+			"Flags": {
+				"translate": [
+					{ "x": -351.9, "y": 146.23 }
+				]
+			},
+			"Numbers": {
+				"translate": [
+					{ "x": 7.95, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": 386.47, "y": -77.83 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				],
+				"shear": [
+					{ "y": -180 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line11": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "11" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern3" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern3" }
+				]
+			}
+		},
+		"bones": {
+			"Numbers": {
+				"translate": [
+					{ "x": -7.26, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": -422.33, "y": 77.33 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			},
+			"Flags": {
+				"translate": [
+					{ "x": 350, "y": -146.97 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line12": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "12" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern7" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern7" }
+				]
+			}
+		},
+		"bones": {
+			"Numbers": {
+				"translate": [
+					{ "x": -7.26, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": -409.84, "y": 77.33 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			},
+			"Flags": {
+				"translate": [
+					{ "x": 350, "y": -8.22 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line13": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "13" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern7" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern7" }
+				]
+			}
+		},
+		"bones": {
+			"Numbers": {
+				"translate": [
+					{ "x": -7.26, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": -411.57, "y": -77.44 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				],
+				"shear": [
+					{ "y": -180 }
+				]
+			},
+			"Flags": {
+				"translate": [
+					{ "x": 350, "y": -8.22 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line14": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "14" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern6" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern6" }
+				]
+			}
+		},
+		"bones": {
+			"Numbers": {
+				"translate": [
+					{ "x": -7.26, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": -411.54, "y": 78.05 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				],
+				"shear": [
+					{ "y": -180 }
+				]
+			},
+			"Flags": {
+				"translate": [
+					{ "x": 350, "y": -8.22 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line15": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "15" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern6" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern6" }
+				]
+			}
+		},
+		"bones": {
+			"Numbers": {
+				"translate": [
+					{ "x": -7.26, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": -412.41, "y": -76.09 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			},
+			"Flags": {
+				"translate": [
+					{ "x": 350, "y": -8.22 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line16": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "16" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern6" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern6" }
+				]
+			}
+		},
+		"bones": {
+			"Numbers": {
+				"translate": [
+					{ "x": -7.26, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": -412.38, "y": -76.09 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			},
+			"Flags": {
+				"translate": [
+					{ "x": 350, "y": 146.23 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line17": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "17" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern6" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern6" }
+				]
+			}
+		},
+		"bones": {
+			"Numbers": {
+				"translate": [
+					{ "x": -7.26, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": -412.39, "y": 77.33 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				],
+				"shear": [
+					{ "y": -180 }
+				]
+			},
+			"Flags": {
+				"translate": [
+					{ "x": 350, "y": -146.97 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line18": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "18" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern4" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern4" }
+				]
+			}
+		},
+		"bones": {
+			"Numbers": {
+				"translate": [
+					{ "x": -7.26, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": -420.8, "y": 152.63 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			},
+			"Flags": {
+				"translate": [
+					{ "x": 350, "y": -146.97 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line19": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "19" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern4" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern4" }
+				]
+			}
+		},
+		"bones": {
+			"Numbers": {
+				"translate": [
+					{ "x": -7.26, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": -417.44, "y": -151.42 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				],
+				"shear": [
+					{ "y": -180 }
+				]
+			},
+			"Flags": {
+				"translate": [
+					{ "x": 350, "y": 146.23 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	},
+	"bingo_line20": {
+		"slots": {
+			"Numbers": {
+				"attachment": [
+					{ "name": "20" }
+				]
+			},
+			"Patterns": {
+				"attachment": [
+					{ "name": "pattern11" }
+				]
+			},
+			"Patterns2": {
+				"attachment": [
+					{ "name": "pattern11" }
+				]
+			}
+		},
+		"bones": {
+			"Numbers": {
+				"translate": [
+					{ "x": -7.26, "y": 1.19 }
+				]
+			},
+			"Patterns": {
+				"translate": [
+					{ "x": -409.87, "y": -148.28 }
+				],
+				"scale": [
+					{ "x": 1.189 }
+				]
+			},
+			"Flags": {
+				"translate": [
+					{ "x": 350, "y": 146.23 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"ClippingMask2": {
+					"ClippingMask": [
+						{
+							"vertices": [ -56.07605, 0, -93.24298, 0, -93.24298, 0, -56.07605 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"vertices": [ 761.9557, 0, 724.7887, 0, 724.7887, 0, 761.9557 ]
+						}
+					]
+				},
+				"ClippingMask": {
+					"ClippingMask": [
+						{
+							"offset": 2,
+							"vertices": [ -804.3396, 0, -804.3396 ]
+						},
+						{ "time": 0.5 }
+					]
+				}
+			}
+		}
+	}
+}
+}
