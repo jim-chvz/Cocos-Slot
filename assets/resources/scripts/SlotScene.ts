@@ -60,7 +60,7 @@ export class SlotScene extends SlotManager {
     this.instantStopRoll();
   }
 
-  onSpeedClickNew(event: Event, number: string) {
+  onSpeedClickNew() {
     this.speedLevel++;
     if (this.speedLevel > 3) {
       this.speedLevel = 1;
