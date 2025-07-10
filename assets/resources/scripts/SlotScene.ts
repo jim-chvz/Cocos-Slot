@@ -266,7 +266,7 @@ export class SlotScene extends SlotManager {
   }
 
   gameEnd() {
-    
+
     const wins = this.checkWinLines(this.gameResult);
 
     if (wins.length > 0) {
@@ -302,9 +302,7 @@ export class SlotScene extends SlotManager {
     const size = this.itemLayerNode[0].getComponent(UITransform)!.contentSize;
     const itemH = size.height / 3;
 
-    this.itemNodeList[index].sort(
-      (a, b) => (a as any).showIndex - (b as any).showIndex
-    );
+    this.itemNodeList[index].sort((a, b) => (a as any).showIndex - (b as any).showIndex);
 
     for (let k = 0; k < this.itemNodeList[index].length; k++) {
       const node = this.itemNodeList[index][k];
